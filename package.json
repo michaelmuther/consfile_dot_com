@@ -1,0 +1,23 @@
+{
+  "name": "consfile_dot_com",
+  "version": "1.0.0",
+  "description": "open source financial statement consolidation tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelmuther/consfile_dot_com.git"
+  },
+  "author": "Michael G Muther",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelmuther/consfile_dot_com/issues"
+  },
+  "homepage": "https://github.com/michaelmuther/consfile_dot_com#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
