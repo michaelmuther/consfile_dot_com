@@ -18,6 +18,7 @@
   "homepage": "https://github.com/michaelmuther/consfile_dot_com#readme",
   "dependencies": {
     "ejs": "^2.6.1",
+    "excel-as-json": "^2.0.2",
     "express": "^4.16.3"
   }
 }
